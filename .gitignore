@@ -1,0 +1,8 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user/
+NLE_data.csv
+NLE_template_spreadsheet.csv
+complete_data_set.csv
+lab_data.csv
